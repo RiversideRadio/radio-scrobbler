@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Config
+config.json
+
+# Source/output files
+metadata/now-playing.source.json
+metadata/now-playing.output.json
+metadata/now-playing.source.xml
+metadata/now-playing.output.xml
