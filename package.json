@@ -1,0 +1,23 @@
+{
+  "name": "radio-scrobbler",
+  "version": "1.0.0",
+  "description": "Last.fm scrobbler for radio stations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiversideRadio/radio-scrobbler.git"
+  },
+  "author": "Ewan Roycroft <ewan@riversideradio.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RiversideRadio/radio-scrobbler/issues"
+  },
+  "homepage": "https://github.com/RiversideRadio/radio-scrobbler#readme",
+  "dependencies": {
+    "simple-lastfm": "^1.0.6",
+    "xml2js": "^0.4.23"
+  }
+}
